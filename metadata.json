@@ -1,0 +1,5 @@
+{
+  "name": "Manga-fy",
+  "description": "An application to automatically color black-and-white manga panels or convert real photos into a manga style using AI. Users can select styles and genres, process multiple images at once, and view their generation history.",
+  "requestFramePermissions": []
+}
